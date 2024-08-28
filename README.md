@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AIAdebimpe
+- 👋 Hi, I’m @aiadebimpe
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning Machine Learning with Python
 - 💞️ I’m looking to collaborate on data science and machine learning
