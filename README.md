@@ -8,7 +8,7 @@ Ademola is a registered Engineer and a data specialist.
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [aisaac.adebimpe@gmail.com](mailto:aisaac.adebimpe@gmail.com)
-* 🚀  I'm currently working on [OstRipening](http://github.com/ImperialCollegeLondon/OstRipening.git)
+* 🚀  I'm currently working on [GurugeeksRoyalty](https://github.com/Gurugeeksroyalty-ltd) projects.
 
 ### Skills
 
