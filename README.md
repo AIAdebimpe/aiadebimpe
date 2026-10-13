@@ -1,7 +1,7 @@
 Hi 👋 My name is Ademola
 ========================
 
-Chemical Engineer | Data Analyst
+Computational Research Scientist | Software Developer
 --------------------------------
 
 Ademola is a registered Engineer and a data specialist.
