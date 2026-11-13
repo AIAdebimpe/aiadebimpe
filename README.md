@@ -54,6 +54,10 @@ Python-based pore-network modelling software for investigating multiphase flow a
 
 Computational modelling tools for studying Ostwald ripening and the evolution of disconnected fluid clusters in porous media.
 
+**[Percolation_without_trapping](https://github.com/ImperialCollegeLondon/percolation_without_trapping)**
+
+Python-based pore-network modelling software for investigating multiphase flow and transport in porous media without permanent trapping.
+
 ---
 
 ## 🛠️ Technical Skills
