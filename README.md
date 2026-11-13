@@ -22,7 +22,7 @@ Technologies: Python, FastAPI, React, TypeScript, PostgreSQL
 
 An enterprise application integrating Human Resource Management and Customer Relationship Management. My work includes developing and improving organisational and CRM functionality, REST APIs, database interactions and business workflows.
 
-🌐 Live Application: Visit **[Exceed][(https://exceed.gurugeeksroyalty.net/)]**
+🌐 Live Application: Visit **[Exceed](https://exceed.gurugeeksroyalty.net/)**
 
 Source code: Private (commercial project)
 
