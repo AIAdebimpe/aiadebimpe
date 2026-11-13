@@ -1,69 +1,106 @@
-Hi 👋 My name is Ademola
-========================
+# Hi, I'm Ademola Isaac Adebimpe 👋
 
-Computational Research Scientist | Software Developer
---------------------------------
+### Computational Research Scientist | Full-Stack Software Developer | PhD, Imperial College London
 
-Ademola is a registered Engineer and a data specialist.
+I am a computational research scientist and full-stack software developer with experience spanning **scientific computing, numerical modelling, software engineering and web application development**.
 
-* 🌍  I'm based in London
-* ✉️  You can contact me at [aisaac.adebimpe@gmail.com](mailto:aisaac.adebimpe@gmail.com)
-* 🚀  I'm currently working on [GurugeeksRoyalty](https://github.com/Gurugeeksroyalty-ltd) projects.
+My research focuses on **multiphase flow and mass transfer in porous media**, with applications in geological CO₂ storage, underground hydrogen storage and subsurface energy systems. I develop computational models and scientific software using Python and C++ to investigate complex physical processes.
 
-### Skills
+Alongside my research, I work as a **Full-Stack Software Developer at Gurugeeks Royalty Ltd**, contributing to enterprise web applications using Python, FastAPI, React, TypeScript, Node.js and PostgreSQL.
 
-#### Languages
-- Python (Advanced: Decorators, Generators, Context Managers, Concurrency, OOP)
-- JavaScript / TypeScript (ES6+)
-- C++
-- SQL
-- HTML5 / CSS3
-- Fortran
-- MATLAB
+I enjoy solving complex problems, developing reliable software and translating technical requirements into practical solutions.
 
-#### Libraries & Frameworks
-- FastAPI
-- Next.js
-- Node.js
-- Express
-- React.js
-- Pydantic
-- NumPy
-- SciPy
-- Pandas
-- Numba
-- Scikit-learn
-- Tailwind CSS
+---
 
-#### DevOps, Tools & Databases
-- Docker
-- Jira
-- Figma
-- Git / GitHub
-- RESTful APIs
-- CI/CD pipelines
-- Linux HPC
-- PostgreSQL / SQL
-- MongoDB
-- Power BI
+## 💻 Software Engineering
 
-#### Core Engineering Principles
-- Asynchronous API Architecture
-- Agile Software Development
-- UI/UX Implementation
-- CI/CD Pipeline Design
-- Production-Ready Software Design
-- SDLC
-- Object-Oriented Programming (OOP)
+I contribute to the development and improvement of full-stack applications, including:
 
-### Socials
+**Exceed — Multi-Tenant HRM & CRM Platform (Professional Project)**
 
-<p align="left"> <a href="https://www.github.com/aiadebimpe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></picture> </a> </p>
+An enterprise application integrating Human Resource Management and Customer Relationship Management. My work includes developing and improving organisational and CRM functionality, REST APIs, database interactions and business workflows.
 
-### Badges
+**Learning Management System (Professional Project)**
 
-<b>My GitHub Stats</b>
+Contributed to frontend and backend functionality, including student learning-progress synchronisation, communication workflows and API integration.
 
-<a href="http://www.github.com/aiadebimpe"><img src="https://github-readme-stats.vercel.app/api?username=aiadebimpe&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&border_color=0891b2&border_radius=10" /></a>
+**LASCOPA Complaint & Case Management (Client Project)**
 
-<a href="https://github.com/aiadebimpe" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiadebimpe&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&border_color=0891b2&border_radius=10" /></a>
+Worked on case assignment workflows, user permissions, frontend functionality and backend integration.
+
+*These are private professional projects. Their source code is not publicly available.*
+
+---
+
+## 🔬 Computational Research & Scientific Software
+
+My doctoral research at **Imperial College London** investigated pore-scale mechanisms governing fluid redistribution, Ostwald ripening and fluid intermittency in porous media.
+
+My research software experience includes:
+
+- Developing pore-network simulation frameworks using **Python and C++**.
+- Implementing numerical algorithms for multiphase flow, mass transfer and fluid connectivity.
+- Improving computational performance using **NumPy, Numba and high-performance computing**.
+- Validating numerical models through conservation checks, convergence analysis and comparison with physical behaviour.
+- Applying computational methods to problems relevant to **CO₂ and hydrogen storage**.
+
+### Research Software
+
+**[pnflowPy](https://github.com/ImperialCollegeLondon/pnflowPy)**
+
+Python-based pore-network modelling software for investigating multiphase flow and transport in porous media.
+
+**[OstRipening](https://github.com/ImperialCollegeLondon/OstRipening)**
+
+Computational modelling tools for studying Ostwald ripening and the evolution of disconnected fluid clusters in porous media.
+
+---
+
+## 🛠️ Technical Skills
+
+| Area | Technologies |
+|---|---|
+| Programming | Python, JavaScript, TypeScript, C++, SQL |
+| Frontend | React, Next.js, HTML5, CSS3, Tailwind CSS |
+| Backend | FastAPI, Node.js, Express.js, REST APIs, Pydantic |
+| Databases | PostgreSQL, Prisma ORM, MongoDB, Mongoose |
+| Scientific Computing | NumPy, SciPy, Numba, MATLAB, numerical modelling |
+| Development Tools | Git, GitHub, Docker, Jira, Swagger/OpenAPI, Figma |
+| Computing | Linux, HPC, performance optimisation, AWS S3 |
+
+---
+
+## 🚀 Selected Personal Projects
+
+### [AnyGadget](https://github.com/AIAdebimpe/AnyGadget)
+
+A full-stack inventory and store management application developed using React, Node.js and Express.
+
+- Developed responsive frontend components and integrated REST APIs.
+- Implemented inventory management functionality and database interactions.
+
+### [Gateway Portal](https://github.com/AIAdebimpe/Gateway-Portal)
+
+A web application developed using Node.js, Express and EJS.
+
+- Implemented server-rendered interfaces and backend routing.
+- Developed application workflows, middleware and request handling.
+
+---
+
+## 📚 Research & Publications
+
+My research combines computational methods, pore-scale physics and energy-related applications.
+
+**Research interests:** Multiphase flow | Porous media | Ostwald ripening | Scientific computing | CO₂ storage | Hydrogen storage | Numerical simulation
+
+You can explore my research publications and computational software projects through my repositories and academic profiles.
+
+---
+
+## 🤝 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/isaac-adebimpe-51810656](https://www.linkedin.com/in/isaac-adebimpe-51810656)
+- **GitHub:** [github.com/AIAdebimpe](https://github.com/AIAdebimpe)
+
+I am interested in opportunities and collaborations involving **full-stack software engineering, backend development, research software engineering, computational modelling and scientific computing**.
