@@ -16,7 +16,7 @@ I enjoy solving complex problems, developing reliable software and translating t
 
 I currently work as a Full-Stack Software Developer at Gurugeeks Royalty Ltd, contributing to the development and improvement of enterprise web applications, including:
 
-
+---
 **Exceed — Multi-Tenant HRM & CRM Platform**
 
 Technologies: Python, FastAPI, React, TypeScript, PostgreSQL
@@ -27,7 +27,7 @@ An enterprise application integrating Human Resource Management and Customer Rel
 
 Source code: Private (commercial project)
 
-
+---
 **Learning Management System**
 
 Technologies: React, JavaScript, Node.js, Express, MongoDB
@@ -38,7 +38,7 @@ A learning management platform supporting course delivery, student progress trac
 
 Source code: Private (commercial project)
 
-
+---
 **LASCOPA Complaint & Case Management (Client Project)**
 
 Technologies: React, Node.js, Express, PostgreSQL, Prisma
