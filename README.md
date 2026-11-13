@@ -10,7 +10,7 @@ Alongside my research, I work as a **Full-Stack Software Developer at Gurugeeks 
 
 I enjoy solving complex problems, developing reliable software and translating technical requirements into practical solutions.
 
----
+
 
 ## 💻 Professional Software Development
 
