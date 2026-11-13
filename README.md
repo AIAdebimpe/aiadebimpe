@@ -63,7 +63,7 @@ My research software experience includes:
 - Validating numerical models through conservation checks, convergence analysis and comparison with physical behaviour.
 - Applying computational methods to problems relevant to **CO₂ and hydrogen storage**.
 
-### Research Software
+## Research Software
 
 **[pnflowPy](https://github.com/ImperialCollegeLondon/pnflowPy)**
 
