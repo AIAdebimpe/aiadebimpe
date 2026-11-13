@@ -12,13 +12,19 @@ I enjoy solving complex problems, developing reliable software and translating t
 
 ---
 
-## 💻 Software Engineering
+## 💻 Professional Software Development
 
-I contribute to the development and improvement of full-stack applications, including:
+I currently work as a Full-Stack Software Developer at Gurugeeks Royalty Ltd, contributing to the development and improvement of enterprise web applications, including:
 
-**Exceed — Multi-Tenant HRM & CRM Platform (Professional Project)**
+**Exceed — Multi-Tenant HRM & CRM Platform**
+
+Technologies: Python, FastAPI, React, TypeScript, PostgreSQL
 
 An enterprise application integrating Human Resource Management and Customer Relationship Management. My work includes developing and improving organisational and CRM functionality, REST APIs, database interactions and business workflows.
+
+🌐 Live Application: Visit **[Exceed][(https://exceed.gurugeeksroyalty.net/)]**
+
+Source code: Private (commercial project)
 
 **Learning Management System (Professional Project)**
 
