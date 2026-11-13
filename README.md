@@ -1,6 +1,6 @@
 # Hi, I'm Ademola Isaac Adebimpe 👋
 
-### Computational Research Scientist | Full-Stack Software Developer | PhD, Imperial College London
+### Computational Research Scientist | Full-Stack Software Developer
 
 I am a computational research scientist and full-stack software developer with experience spanning **scientific computing, numerical modelling, software engineering and web application development**.
 
