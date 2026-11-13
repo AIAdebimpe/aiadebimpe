@@ -49,7 +49,7 @@ A client application supporting complaint handling, case assignment and user per
 
 Source code: Private (commercial project)
 
----
+
 
 ## 🔬 Computational Research & Scientific Software
 
@@ -77,7 +77,7 @@ Computational modelling tools for studying Ostwald ripening and the evolution of
 
 Python-based pore-network modelling software for investigating multiphase flow and transport in porous media without permanent trapping.
 
----
+
 
 ## 🛠️ Technical Skills
 
@@ -109,7 +109,7 @@ A web application developed using Node.js, Express and EJS.
 - Implemented server-rendered interfaces and backend routing.
 - Developed application workflows, middleware and request handling.
 
----
+
 
 ## 📚 Research & Publications
 
@@ -119,7 +119,7 @@ My research combines computational methods, pore-scale physics and energy-relate
 
 You can explore my research publications and computational software projects through my repositories and academic profiles.
 
----
+
 
 ## 🤝 Connect With Me
 
