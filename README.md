@@ -36,12 +36,18 @@ A learning management platform supporting course delivery, student progress trac
 
 🌐 Live Application: Visit **[LMS](https://gurugeeksacademy.com/)**
 
+Source code: Private (commercial project)
+
 
 **LASCOPA Complaint & Case Management (Client Project)**
 
-Worked on case assignment workflows, user permissions, frontend functionality and backend integration.
+Technologies: React, Node.js, Express, PostgreSQL, Prisma
 
-*These are private professional projects. Their source code is not publicly available.*
+A client application supporting complaint handling, case assignment and user permissions. I worked on case assignment workflows, role-based user permissions, frontend functionality and backend integration.
+
+🌐 Live Application: Visit **[LASCOPA](https://lascopa.gurugeeksroyalty.com.ng/)**
+
+Source code: Private (commercial project)
 
 ---
 
